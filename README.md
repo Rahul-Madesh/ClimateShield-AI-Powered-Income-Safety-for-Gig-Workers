@@ -41,6 +41,6 @@ Mobile-first | Flutter/React | Node.js/Python | MongoDB | Weather APIs
 
 Strictly covers income loss only (no health, accident, or asset claims).
 
-🚀 Impact
+##🚀 Impact
 
 Transforms insurance into a real-time financial safety net for gig workers — simple, automated, and scalable.
